@@ -1,44 +1,69 @@
+<!-- CYBERPUNK NEON GITHUB PROFILE -->
+
 <div align="center">
 
-# 👋 Hey, I'm Rajith Sandron S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff00ff,100:00f5ff&height=220&section=header&text=RAJITH%20SANDRON&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;AI+%26+Web+Development+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+WELCOME+TO+MY+CYBERSPACE+%E2%9A%A1;%F0%9F%A4%96+AI+%26+TECH+ENTHUSIAST;%F0%9F%92%BB+ASPIRING+SOFTWARE+DEVELOPER;%F0%9F%9A%80+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
 
-<a href="https://rajithsandron25-source.github.io/Rajith-/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge" />
+<br><br>
+
+<a href="https://github.com/Rajithsandron">
+<img src="https://img.shields.io/badge/GITHUB-RAJITHSANDRON-0d0221?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://github.com/rajithsandron25-source">
-  <img src="https://img.shields.io/badge/GitHub-rajithsandron25--source-181717?style=for-the-badge&logo=github" />
+<a href="https://Rajithsandron.github.io/Rajith-/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20MY%20WORLD-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# ⚡ SYSTEM ONLINE
 
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student
-
-💻 Passionate about **Software Development**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-🌐 Interested in **Web Development**
-
-🐍 Currently learning **Python & Data Structures**
-
-🚀 I enjoy building innovative projects that solve real-world problems.
-
-<br clear="both"/>
+```text
+╔══════════════════════════════════════════════════════╗
+║  USER        : RAJITH SANDRON                        ║
+║  ROLE        : CSE STUDENT                           ║
+║  STATUS      : BUILDING THE FUTURE 🚀                ║
+║  SPECIALITY  : AI • WEB • SOFTWARE DEVELOPMENT       ║
+║  MODE        : ALWAYS LEARNING ⚡                    ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 ABOUT_ME.exe
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```python
+class RajithSandron:
+
+    def __init__(self):
+        self.name = "Rajith Sandron S"
+        self.role = "CSE Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Web Development",
+            "Software Development"
+        ]
+
+    def mission(self):
+        return "Turning ideas into reality 🚀"
+
+me = RajithSandron()
+print(me.mission())
+```
+
+<br clear="both">
+
+---
+
+# ⚙️ TECH_STACK.sys
 
 <div align="center">
 
@@ -48,72 +73,88 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📡 GITHUB_ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajithsandron25-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rajithsandron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajithsandron25-source&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithsandron&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=FF00FF&text_color=FFFFFF"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajithsandron25-source&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🪨 Rockfall Guard
-
-Real-time safety monitoring dashboard for **rockfall detection and slope monitoring**, using sensor data and AI-based risk analysis.
-
-### 🏥 Sehat Sathi
-
-An **AI-powered healthcare solution** designed to improve healthcare accessibility and support in rural areas.
-
-### 🛒 Smart Grocery Shop
-
-A smart grocery management system featuring **barcode scanning, inventory management, buyer and seller portals, and reward points**.
-
----
-
-## 🐍 Contribution Snake
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajithsandron25-source/rajithsandron25-source/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://streak-stats.demolab.com?user=Rajithsandron&theme=tokyonight&hide_border=true&background=0D0221&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 FEATURED_PROJECTS.exe
+
+### 🪨 ROCKFALL_GUARD
+
+> ⚠️ Real-time safety monitoring system for **rockfall detection and slope monitoring**, combining sensor data with intelligent risk analysis.
+
+---
+
+### 🏥 SEHAT_SATHI
+
+> 🤖 An **AI-powered healthcare solution** focused on improving accessibility and support for rural communities.
+
+---
+
+### 🛒 SMART_GROCERY_SYSTEM
+
+> 📦 A smart grocery platform with **barcode scanning, inventory management, buyer and seller portals, and reward points**.
+
+---
+
+# 🐍 CONTRIBUTION_MATRIX
 
 <div align="center">
 
-<a href="https://rajithsandron25-source.github.io/Rajith-/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Rajithsandron/Rajithsandron/output/github-contribution-grid-snake-dark.svg" alt="Cyber Snake Animation"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT.exe
+
+<div align="center">
+
+<a href="https://github.com/Rajithsandron">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-0D0221?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://github.com/rajithsandron25-source">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+<a href="https://Rajithsandron.github.io/Rajith-/">
+<img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_MATRIX-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rajithsandron25-source&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rajithsandron&label=PROFILE+VISITORS&color=00f5ff&style=for-the-badge"/>
 
-### 💡 *"Code. Create. Innovate. Repeat."*
+<br><br>
 
-⭐ **Always Learning | Always Building | Always Improving** 🚀
+```text
+╔══════════════════════════════════════╗
+║   ⚡ CODE • CREATE • INNOVATE ⚡     ║
+║                                      ║
+║        SYSTEM STATUS: ONLINE 🟢      ║
+╚══════════════════════════════════════╝
+```
+
+### ⚡ ENTER THE FUTURE. BUILD SOMETHING LEGENDARY. ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:ff00ff,100:0d0221&height=120&section=footer"/>
 
 </div>
