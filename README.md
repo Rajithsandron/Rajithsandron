@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 🎓 Computer Science Engineering Student
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat+%E2%9A%A1" alt="Learning Animation"/>
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,flask,sqlite,firebase,git,github,vscode&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,flask,sqlite,firebase,git,github,vscode&theme=dark&perline=6" alt="Tech Stack"/>
 
 </div>
 
@@ -73,39 +73,21 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Rajithsandron&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithsandron&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
-  alt="Top Languages"
+src="https://streak-stats.demolab.com?user=Rajithsandron&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Rajithsandron&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## ⚡ Coding Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Rajithsandron&theme=tokyo-night&hide_border=true"
-  alt="GitHub Activity Graph"
+src="https://ghchart.rshah.org/00F5FF/Rajithsandron"
+alt="GitHub Contribution Chart"
 />
 
 </div>
@@ -130,7 +112,7 @@ A smart grocery management system featuring **barcode scanning, inventory manage
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=IDEAS+%E2%86%92+CODE+%E2%86%92+INNOVATION+%E2%86%92+IMPACT+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=IDEAS+%E2%86%92+CODE+%E2%86%92+INNOVATION+%E2%86%92+IMPACT+%F0%9F%9A%80" alt="Innovation Animation"/>
 
 </div>
 
@@ -140,7 +122,10 @@ A smart grocery management system featuring **barcode scanning, inventory manage
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rajithsandron/Rajithsandron/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<img
+src="https://raw.githubusercontent.com/Rajithsandron/Rajithsandron/output/github-contribution-grid-snake-dark.svg"
+alt="Contribution Snake Animation"
+/>
 
 </div>
 
@@ -164,7 +149,7 @@ A smart grocery management system featuring **barcode scanning, inventory manage
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.+Repeat.;Always+Learning+%7C+Always+Building+%7C+Always+Improving+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.+Repeat.;Always+Learning+%7C+Always+Building+%7C+Always+Improving+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br/><br/>
 
